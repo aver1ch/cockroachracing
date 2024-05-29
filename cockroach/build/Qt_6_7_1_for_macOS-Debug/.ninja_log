@@ -1,0 +1,19 @@
+# ninja log v5
+663	735	1716762227125888531	cockroach.app/Contents/MacOS/cockroach	855733daae468985
+18	38	1716975769297944625	cockroach_autogen/mocs_compilation.cpp	e940dc607716edbb
+1	124	0	/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	4ea357ced935ff48
+199	402	1716922122325547545	CMakeFiles/cockroach.dir/cockroach.cpp.o	58b870f759bf0ebc
+18	38	1716975769297944625	cockroach_autogen/timestamp	e940dc607716edbb
+116	396	1716976217112187204	build.ninja	bc02abca01f09ee5
+90	250	1716762119997495590	CMakeFiles/cockroach.dir/gamer.cpp.o	3e47b523998fcb3f
+18	38	1716975769297944625	/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/cockroach_autogen/timestamp	e940dc607716edbb
+33	663	1716762227053126130	CMakeFiles/cockroach.dir/main.cpp.o	fac3de5fbc5dd5c4
+18	38	1716975769297944625	/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/cockroach_autogen/mocs_compilation.cpp	e940dc607716edbb
+40	750	1716975770005362971	CMakeFiles/cockroach.dir/racewindow.cpp.o	274c81a5c0b1bb62
+125	813	1716930495991948815	CMakeFiles/cockroach.dir/cockroach_autogen/mocs_compilation.cpp.o	2b9108e0c800546d
+1	77	0	/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/cmake.verify_globs	4ea357ced935ff48
+5	21	1716976220903045937	cockroach_autogen/timestamp	e940dc607716edbb
+5	21	1716976220903045937	cockroach_autogen/mocs_compilation.cpp	e940dc607716edbb
+5	21	1716976220903045937	/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/cockroach_autogen/timestamp	e940dc607716edbb
+5	21	1716976220903045937	/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/cockroach_autogen/mocs_compilation.cpp	e940dc607716edbb
+22	611	1716976221488971554	CMakeFiles/cockroach.dir/racewindow.cpp.o	274c81a5c0b1bb62

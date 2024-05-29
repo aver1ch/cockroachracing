@@ -1,0 +1,9 @@
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/cockroach.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/cockroach_autogen_timestamp_deps.dir
+/Users/averichie/Desktop/cockroach/build/Qt_6_7_1_for_macOS-Debug/CMakeFiles/cockroach_autogen.dir
